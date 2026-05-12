@@ -1,4 +1,4 @@
-# 🛒 Buffalo Basket — E-Commerce Delivery System Database Design
+# Buffalo Basket — E-Commerce Delivery System Database Design
 
 > End-to-end relational database design for a neighborhood delivery platform, built from scratch with full normalization analysis, storage estimation, and indexing strategy.
 
